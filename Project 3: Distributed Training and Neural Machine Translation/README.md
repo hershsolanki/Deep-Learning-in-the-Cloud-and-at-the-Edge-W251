@@ -13,8 +13,10 @@ No, both training loss and eval loss are about the same.
 ```
 
 Were your GPUs fully utilized?
-![GPU](/Users/h/Desktop/Screen/Shot/2020-03-01/at/10.44.17/PM.png)
-
+![GPU](images/Steps.png)
+```
+![GPU](Images/Steps.png)
+```
 
 
 Did you monitor network traffic (hint: apt install nmon ) ? Was network the bottleneck?
