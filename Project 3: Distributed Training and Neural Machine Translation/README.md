@@ -48,6 +48,9 @@ I checked the size of train.clean.de. It was 695371444 bytes, or 695 MB.
 ```
 
 What are the files that a TF checkpoint is comprised of?
+```
+The TF checkpoint has the metadata, as well as the loss/weight of the model.
+```
 
 
 How big is your resulting model checkpoint (mb)?
