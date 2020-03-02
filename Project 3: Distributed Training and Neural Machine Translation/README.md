@@ -13,7 +13,7 @@ No, both training loss and eval loss are about the same.
 ```
 
 Were your GPUs fully utilized?
-![GPU](Steps.png)
+![GPU](Images/Steps.png)
 
 ```
 ![GPU](Steps.png)
