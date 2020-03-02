@@ -13,7 +13,7 @@ No, both training loss and eval loss are about the same.
 ```
 
 Were your GPUs fully utilized?
-![GPU](/Users/h/Desktop/Screen\ Shot\ 2020-03-01\ at\ 10.44.17\ PM.png)
+![GPU](/Users/h/Desktop/Screen/Shot/2020-03-01/at/10.44.17/PM.png)
 
 
 
