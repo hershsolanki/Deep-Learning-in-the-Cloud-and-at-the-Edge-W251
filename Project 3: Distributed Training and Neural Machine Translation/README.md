@@ -31,7 +31,7 @@ Network was NOT the bottleneck.
 
 Take a look at the plot of the learning rate and then check the config file. Can you explan this setting?
 
-![GPU](Images/Learning Rate.png)
+![GPU](Images/Learning-Rate.png)
 ```
   "lr_policy": transformer_policy,
   "lr_policy_params": {
